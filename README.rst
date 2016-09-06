@@ -32,7 +32,7 @@ and you'll find */usr/local/bin/dfu-util-qda*.
 WINDOWS
 =======
 Windows Native with MSYS
-========================
+------------------------
 Windows binaries can be built in a MSYS2 environment. Download and istall it before compiling from http://msys2.github.io
 
 Once installed, MSYS2 would have created a Linux-like environment in your Windows PC.
@@ -62,7 +62,7 @@ The generated binary is *src/dfu-util-qda.exe*.
 
 
 Windows Cross-compile from Ubuntu16
-===================================
+-----------------------------------
 Before compiling, we'll need to install MinGW:
 ::
 	sudo apt-get install mingw-w64
