@@ -39,7 +39,8 @@ Once installed, MSYS2 would have created a Linux-like environment in your Window
 
 Copy the qm-dfu-util folder to *<MSYS2_installation_folder>\home\<your_user>*
 Open MSYS2 Shell from your Windows Start Menu.
-Install the needed components::
+Install the needed components:
+::
 	pacman -S autoconf
 	pacman -S perl
 	pacman -S automake
